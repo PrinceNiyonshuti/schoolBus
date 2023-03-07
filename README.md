@@ -26,7 +26,10 @@ from here to can be able
 - Clone the repository
 - Run the scripts above
 - Run the application with `php artisan serve`
+## Contributing
+Pull requests are welcome. For major changes, please open an issue first to discuss what you would like to change.
 
+Please make sure to update tests as appropriate.
 ## How to contribute
 
 - Fork the repository
@@ -41,10 +44,6 @@ from here to can be able
 ## Feedback and issues
 
 Any issue and feedback from the app don't hesitate to rise an issue on the repository or send me an email on [npprince47@gmail.com](mailto:npprince47@gmail.com)
-## Contributing
-Pull requests are welcome. For major changes, please open an issue first to discuss what you would like to change.
-
-Please make sure to update tests as appropriate.
 
 # Contributor
 
